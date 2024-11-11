@@ -1,4 +1,4 @@
-# Mimi-project_numpy
+# Mini-project_numpy
 This repository contains a Jupyter notebook for performing data analysis using popular Python libraries. The notebook provides a structured approach to loading, exploring, and visualizing a dataset.
 
 # Project Overview
